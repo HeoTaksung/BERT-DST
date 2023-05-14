@@ -26,5 +26,5 @@
         * When span is predicted in the Classification Module, the slot-value in the text is predicted through start token and end token
         
     * Result through Validation set
-        *  Slot F1: 0.904095
-        *  Joint-Goal Accuracy: 0.461517
+        *  Slot F1: 0.908588
+        *  Joint-Goal Accuracy: 0.473283
